@@ -35,5 +35,9 @@ dfafdfafdsfasf
 wq
 
 
-:lllwq
-llo git!ello git!
+<<<<<<< HEAD
+
+=======
+:wq
+lldfasdfasdfo git!ello git!
+>>>>>>> hot-fix
